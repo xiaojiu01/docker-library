@@ -1,5 +1,5 @@
-FROM quay.io/coreos/flannel:v0.9.1-amd64
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM gcr.io/datadoghq/agent:7.25.0
+MAINTAINER Saya <mosaicwang@gmail.com>
 
 
 
